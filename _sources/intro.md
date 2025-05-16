@@ -16,7 +16,7 @@ In this project, we explore how men and women are portrayed in the media, using 
 ## Explainer notebook:
 All the methods, code and algorithms used for this report can be found here:
 
-- [Link to explainer-notebook](https://github.com/XanderBaatz/02467-dtu-project/blob/main/explainer.ipynb)
+- [Link to explainer-notebook](https://github.com/XanderBaatz/02467-project/blob/main/explainer.ipynb)
 
 ## About the Project
 
