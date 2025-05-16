@@ -48,7 +48,4 @@ The entertainment category is undoubtedly one of their most popular category, ju
 
 Due to copyright restrictions, we cannot share the dataset directly. However, one can access the original dataset from the [EB-NeRD website](https://recsys.eb.dk/) after agreeing to their terms.
 
-# Community Word Analysis by Gender
-
-# Community Gender-Based Text Features
 
