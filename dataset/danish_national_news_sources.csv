@@ -1,0 +1,85 @@
+id,homepage,domain,url_search_string,label,notes,platform,pub_country,pub_state,media_type,stories_per_week,first_story,primary_language
+38788,http://www.tvsyd.dk/,tvsyd.dk,,tvsyd,,online_news,DNK,DK-83,video_broadcast,128,,da
+38909,http://www.tv2fyn.dk/,tv2fyn.dk,,tv2fyn,,online_news,DNK,DK-83,video_broadcast,137,,da
+39339,http://stiften.dk/,stiften.dk,,stiften,,online_news,DNK,DK-82,print_native,173,,da
+55399,http://berlingske.dk/,berlingske.dk,,berlingske.dk,,online_news,,,,1042,,da
+39548,http://borsen.dk/,borsen.dk,,borsen,,online_news,DNK,DK-84,print_native,206,,da
+144210,http://tv2oj.dk/,tv2oj.dk,,tv2oj.dk,,online_news,,,,4,,
+39818,http://amtsavisen.dk,amtsavisen.dk,,amtsavisen,,online_news,DNK,DK-82,print_native,99,,da
+39899,http://www.arbejderen.dk/,arbejderen.dk,,arbejderen,,online_news,DNK,DK-84,print_native,24,,da
+39954,http://www.bornholmstidende.dk,bornholmstidende.dk,,bornholmstidende,,online_news,DNK,DK-84,print_native,,,da
+40287,http://www.fyens.dk/,fyens.dk,,fyens,,online_news,DNK,DK-83,print_native,547,,da
+40324,http://www.jv.dk/,jv.dk,,jv,,online_news,DNK,DK-83,print_native,618,,da
+19736,http://politiken.dk,politiken.dk,,politiken.dk,,online_news,,,,514,,
+40927,http://www.information.dk/,information.dk,,information,,online_news,DNK,DK-84,print_native,80,,da
+41578,http://www.bt.dk,bt.dk,,BT-dk,,online_news,DNK,DK-84,print_native,590,,da
+40204,http://www.cphpost.dk,cphpost.dk,,copenhagenpost,,online_news,,,,10,,en
+62566,http://kristeligt-dagblad.dk/,kristeligt-dagblad.dk,,kristeligt-dagblad.dk,,online_news,,,,580,,da
+305190,http://www.dr.dk/p1/,dr.dk,,DR P1 | DR,,online_news,DNK,,video_broadcast,790,,da
+85968,http://jyllands-posten.dk/#spider,jyllands-posten.dk,,jyllands-posten.dk,,online_news,DNK,DK-82,print_native,491,,da
+120557,http://thelocal.dk/,thelocal.dk,,thelocal.dk,,online_news,DNK,,digital_native,32,,en
+155394,http://avisen.dk/,avisen.dk,,avisen.dk,,online_news,,,,190,,da
+179100,http://ekstrabladet.dk/,ekstrabladet.dk,,ekstrabladet.dk,,online_news,DNK,DK-84,print_native,999,,da
+179342,http://nordjyske.dk/,nordjyske.dk,,nordjyske.dk,,online_news,DNK,DK-81,print_native,117,,da
+193328,http://altinget.dk/,altinget.dk,,altinget.dk,,online_news,,,,63,,da
+282262,http://tv2.dk/,tv2.dk,,tv2.dk,,online_news,DNK,,video_broadcast,227,,da
+305195,http://www.euroinvestor.dk/,euroinvestor.dk,,"Euroinvestor - aktier, valuta, obligationer, finansnyheder og aktiedebat",,online_news,DNK,,digital_native,,,da
+305197,http://newspaq.dk/,newspaq.dk,,Ritzau Fokus - Produkter,,online_news,DNK,,digital_native,0,,da
+305198,http://npinvestor.dk/,npinvestor.dk,,"Danske aktier, aktiekurser i realtid, analyser, anbefalinger, valutakurser og nyheder inden for investering og valu | NPinvestor",,online_news,DNK,,digital_native,241,,da
+305200,http://www.billedbladet.dk/,billedbladet.dk,,BILLED-BLADET,,online_news,DNK,,print_native,,,da
+178860,http://business.dk/,business.dk,,business.dk,,online_news,,,,,,
+305202,http://penge.dk/,penge.dk,,Penge.dk,,online_news,DNK,,print_native,,,da
+305203,http://www.seoghoer.dk/,seoghoer.dk,,SE og HØR,,online_news,DNK,,print_native,,,da
+305204,http://www.udeoghjemme.dk/,udeoghjemme.dk,,Ude og Hjemme,,online_news,DNK,,print_native,,,da
+305205,http://www.weekendavisen.dk/,weekendavisen.dk,,Weekendavisen,,online_news,DNK,DK-84,print_native,,,da
+1184343,http://via.ritzau.dk/,ritzau.dk,,via.ritzau.dk,,online_news,,,,0,,
+305207,http://www.tv2bornholm.dk/,tv2bornholm.dk,,Nyheder » TV 2/Bornholm,,online_news,DNK,DK-84,video_broadcast,,,da
+305251,http://lokalavisen.dk/,lokalavisen.dk,,Lokalavisen.dk: Regionale nyheder & lokale nyheder fra Politikens Lokalaviser,,online_news,DNK,DK-82,print_native,,,da
+305210,http://ballerupbladet.dk/,ballerupbladet.dk,,Ballerup Bladet | Dine lokale nyheder på nettet,,online_news,DNK,DK-84,print_native,,,da
+831231,http://minby.dk/,minby.dk,,minby.dk,,online_news,,,,,,
+560109,http://mm.dk/,mm.dk,,mm.dk,,online_news,,,,,,
+305217,http://ugebrev.dk/,ugebrev.dk,,Økonomisk Ugebrev Finans,,online_news,DNK,DK-84,print_native,100,,da
+305219,http://sondagsavisen.dk/,sondagsavisen.dk,,Søndagsavisen.dk - Danmarks mest læste avis,,online_news,DNK,DK-84,print_native,,,da
+305220,http://www.tv2lorry.dk/,tv2lorry.dk,,TV 2 Lorry,,online_news,DNK,DK-84,video_broadcast,215,,da
+305227,http://www.gladsaxebladet.dk/,gladsaxebladet.dk,,Gladsaxebladet,,online_news,DNK,DK-84,print_native,,,da
+305228,http://folkebladet.dk/,folkebladet.dk,,Folkebladet,,online_news,NOR,NO-19,print_native,60,,no
+305232,http://www.rnn.dk/,rnn.dk,,Rødovre Lokal Nyt | … Vigtigere end du tror!,,online_news,DNK,DK-84,digital_native,,,da
+41874,http://www.sn.dk/,sn.dk,,dagbladetonline,,online_news,,,,91,,da
+305236,http://www.taarnbybladet.dk/,taarnbybladet.dk,,TÅRNBY BLADET,,online_news,DNK,DK-84,print_native,,,da
+305242,http://www.brandebladet.dk/,brandebladet.dk,,Brande Bladet,,online_news,DNK,DK-82,print_native,18,,da
+305243,http://www.galtenfolkeblad.dk/,galtenfolkeblad.dk,,forside,,online_news,DNK,DK-82,print_native,,,da
+305253,http://hsfo.dk,hsfo.dk,,Horsens Folkeblad,,online_news,DNK,DK-82,print_native,120,,da
+305247,http://www.herningbladet.dk/,herningbladet.dk,,Herning Bladet,,online_news,DNK,DK-82,print_native,,,da
+305248,http://aoh.dk/,aoh.dk,,"aoh.dk - Herning Folkeblads nyhedssite - Nyheder fra Herning, Ikast, Brande, Hammerum, Gjellerup, Sunds, Aulum og Vildbjerg",,online_news,DNK,DK-82,print_native,,,da
+305250,http://www.tvmidtvest.dk/,tvmidtvest.dk,,TV MIDTVEST,,online_news,DNK,DK-82,video_broadcast,269,,da
+1317510,http://aoib.dk/,aoib.dk,,aoib.dk,,online_news,,,,,,
+305255,http://ugeavisenkarup.dk/,ugeavisenkarup.dk,,Uge-avisen Karup,,online_news,DNK,DK-82,print_native,,,da
+305259,http://mja.dk/,mja.dk,,"mja.dk - Midtjyllands Avis' nyhedssite - Nyheder fra Silkeborg, Skanderborg, Ry, Kjellerup, Them, Bjerringbro, Hammel og Gjern",,online_news,DNK,DK-82,print_native,,,da
+305261,http://www.skivefolkeblad.dk/,skivefolkeblad.dk,,Skive Folkeblad Online - Forside,,online_news,DNK,DK-82,print_native,,,da
+305262,http://fjendsfolkeblad.dk/,fjendsfolkeblad.dk,,Fjends Folkeblad,,online_news,DNK,DK-82,print_native,,,da
+21362,http://www.e-pages.dk,e-pages.dk,,e-pages.dk,,online_news,,,,32,,
+305264,https://www.torring-folkeblad.dk/,torring-folkeblad.dk,,Tørring | Horsens Folkeblad,,online_news,DNK,DK-82,print_native,,,da
+305265,http://www.tv2nord.dk/,tv2nord.dk,,TV2 Nord,,online_news,DNK,DK-81,video_broadcast,185,,da
+305267,http://www.vesthimmerlandsavis.dk/,vesthimmerlandsavis.dk,,Vesthimmerlands avis,,online_news,DNK,DK-81,print_native,,,da
+305268,http://www.aars.dk/,aars.dk,,Velkommen til Aars.dk,,online_news,DNK,DK-81,digital_native,0,,da
+305269,http://www.roldskovbladet.dk/,roldskovbladet.dk,,Lokale nyheder Skørping finder du på roldskovbladet.dk,,online_news,DNK,DK-81,print_native,,,da
+305272,http://www.haslev-posten.dk/,haslev-posten.dk,,Haslev Posten | Forside,,online_news,DNK,DK-85,print_native,,,da
+305273,http://netavisen-sjaelland.dk/,netavisen-sjaelland.dk,,Netavisen Sjælland,,online_news,DNK,DK-85,digital_native,16,,da
+305281,http://folketidende.dk/,folketidende.dk,,folketidende.dk - Lolland og Falster samlet et sted - Forside,,online_news,DNK,DK-85,digital_native,,,da
+305285,http://stevnsbladet.dk/,stevnsbladet.dk,,Stevnsbladet - nyheder fra Stevns,,online_news,DNK,DK-85,print_native,,,da
+305286,http://www.tveast.dk/,tveast.dk,,TV ØST,,online_news,DNK,DK-85,video_broadcast,14,,da
+305304,http://ugeavisen.dk/ribe,ugeavisen.dk,,Ugeavisen.dk - Forside - Lokal - Esbjerg - Ribe,,online_news,DNK,DK-83,print_native,,,da
+305288,http://www.nordschleswiger.dk/,nordschleswiger.dk,,Der Nordschleswiger – Deutsche Tageszeitung in Dänemark,,online_news,DNK,DK-83,print_native,,,de
+305290,http://ansager.info/,ansager.info,,Ansager.info nyheder og kalender,,online_news,DNK,DK-83,digital_native,5,,da
+305291,http://folkebladet.net/,folkebladet.net,,FOLKEBLADET | Avisen der udkommer hver tirsdag i hele Assens Kommune,,online_news,DNK,DK-83,print_native,10,,da
+305292,http://www.lokalavisenassens.dk/,lokalavisenassens.dk,,LokalAvisen Assens | Nyheder om LokalAvisen Assens | Fyens.dk,,online_news,DNK,DK-83,print_native,,,da
+305293,https://www.ugeavisen-bramming.dk/,ugeavisen-bramming.dk,,Ugeavisen - Bramming,,online_news,DNK,DK-83,print_native,,,
+305312,http://vafo.dk/,vafo.dk,,Vejle Amts Folkeblad,,online_news,DNK,DK-83,print_native,18,,da
+305297,http://frdb.dk/,frdb.dk,,Fredericia Dagblad,,online_news,DNK,DK-83,print_native,85,,da
+305300,http://www.lokalavisennyborg.dk/,lokalavisennyborg.dk,,LokalAvisen Nyborg | Nyheder om LokalAvisen Nyborg | Fyens.dk,,online_news,DNK,DK-83,print_native,,,da
+305302,http://www.ugeavisennordfyn.dk/,ugeavisennordfyn.dk,,UgeAvisen Nordfyn | Nyheder om UgeAvisen Nordfyn | Fyens.dk,,online_news,DNK,DK-83,print_native,,,da
+305303,https://www.ugeavisen-aabenraa.dk/,ugeavisen-aabenraa.dk,,Ugeavisen-Aabenraa,,online_news,DNK,DK-83,print_native,,,
+305315,http://kanal5new.sbstv.dk/,sbstv.dk,,Kanal5,,online_news,DNK,,video_broadcast,,,
+305238,http://dinby.dk/aarhus-onsdag,dinby.dk,,dinby.dk,,online_news,DNK,DK-82,print_native,,,da
+1189058,https://www.dagens.dk/,dagens.dk,,Dagens.dk,,online_news,,,,217,,
+1712427,https://polennu.dk/,polennu.dk,,Polen | Nyheder og information fra Polen på dansk - polennu.dk,,online_news,,,,12,,
