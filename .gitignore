@@ -15,3 +15,6 @@ dataset/articles_entertainment_toyset.parquet
 dataset/filthered_names_df.pkl
 CommunityAnalysisPARTA.ipynb
 dataset/*
+
+combine-df.ipynb
+community.ipynb
